@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>line.png</file>
+        <file>line1.png</file>
+        <file>graphics2.png</file>
+        <file>logo1.png</file>
+        <file>images.jpg</file>
+        <file>application.jpg</file>
+        <file>bluetooth.jfif</file>
+        <file>charge.jpg</file>
+        <file>news.jpg</file>
+        <file>recent.jpg</file>
+        <file>search.jpg</file>
+        <file>whether.jpg</file>
+        <file>car1.png</file>
+        <file>newstime1.png</file>
+        <file>bmw0.jpg</file>
+    </qresource>
+</RCC>
